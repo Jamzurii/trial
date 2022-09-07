@@ -1,0 +1,105 @@
+hr{
+    box-shadow: chocolate;
+}
+
+body{
+    background-image: linear-gradient(green,white,white,white,white,white,white,white);
+    margin: 0 2%;
+}
+
+header{
+    background-color: white;
+}
+
+#w{
+    color: green;
+}
+
+.c{
+    color: green;
+    margin: 1.5%;
+}
+
+a{
+    color: red;
+}
+
+.ad{
+    color: green;
+    margin: 6px;
+}
+
+#ax{
+    margin: 20px;
+}
+
+#y{
+    color: red;
+}
+
+.xxx{
+    margin-bottom: 0%;
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: rgb(243, 243, 98);
+    padding: 2px;
+}
+
+#v{
+    margin-left: 70%;
+    background-color: green;
+    height: 25px;
+}
+
+#vv{
+    color: black;
+}
+
+.g{
+    line-height: 1em;
+    margin-left: 2%;
+}
+
+.f2{
+    border-style: ridge;
+    border-color: rgba(245, 222, 179, 0.425);
+    width: 90%;
+    padding: 4px;
+    margin-bottom: 4px;
+}
+
+section{
+    border-right-style: ridge;
+    border-color: chartreuse;
+    width: 720px;
+    height: 650px;
+    float: left;
+}
+
+aside{
+    float: right;
+    top: 0;
+    border: ridge;
+    border-color: rgba(245, 222, 179, 0.425);
+    margin-top: 3%;
+    margin-right: 7%;
+}
+
+footer{
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    height: 20px;
+}
+
+#foo1{
+    float: left;
+}
+#foo2{
+    float: right;
+}
+
+#x{
+    float: right: 80%;
+    color: red;
+}
